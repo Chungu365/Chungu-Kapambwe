@@ -68,6 +68,12 @@ Python and SQL projects involving data preparation, exploration, analysis and vi
 **CFA Program**  
 CFA Level II Candidate
 
+**Google Data Analystics Professional Certificate**  
+Coursera, 2024
+
+**Google Business Intelligence Professional Certificate** 
+Coursera, 2024
+
 **BSc Mathematics & Statistics**  
 Quantitative foundation supporting my approach to financial and data analysis.
 
