@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chungu Kapambwe
+# 👋 Hi, I'm Chungu Kapambwe
 
 ### Business & Financial Analyst | CFA Level II Candidate
 
@@ -10,70 +10,70 @@ This GitHub is where I document some of that work through **analysis, models, da
 
 ---
 
-## What I Do
+## 💼 What I Do
 
-**Financial Analysis**\
+**Financial Analysis**  
 Financial performance analysis, modelling, forecasting, risk analysis and decision support.
 
-**Investment Analysis**\
+**Investment Analysis**  
 Researching companies, markets and economic developments with an interest in investment decisions and capital allocation.
 
-**Business Intelligence**\
+**Business Intelligence**  
 Building dashboards and analytical solutions that make business performance easier to understand and act on.
 
-**Data Analysis**\
+**Data Analysis**  
 Using data to investigate problems, identify patterns and communicate meaningful insights.
 
-**Strategic Analysis**\
+**Strategic Analysis**  
 Connecting financial, operational and market information to broader business questions and decisions.
 
 ---
 
-## Tools & Tech
+## 🛠️ Tools & Tech
 
-**Finance & Modelling**\
+**Finance & Modelling**  
 Financial Analysis · Financial Modelling · Investment Research · Risk Analysis · Valuation
 
-**Data & Programming**\
+**Data & Programming**  
 Python · SQL · Excel · DAX · R
 
-**Business Intelligence**\
+**Business Intelligence**  
 Power BI · Tableau · Matplotlib
 
-**Workflow**\
+**Workflow**  
 Git · GitHub · Jupyter · Data Modelling · Data Visualisation
 
 ---
 
-## Selected Work
+## 📂 Selected Work
 
 A collection of projects exploring the relationship between **data, finance and business**.
 
-**Business Intelligence**\
+**Business Intelligence**  
 Power BI dashboards and analytical solutions built around business performance and decision making.
 
-**Financial Analysis**\
+**Financial Analysis**  
 Models and analysis covering financial performance, forecasting, valuation and scenario analysis.
 
-**Investment Research**\
+**Investment Research**  
 Company, industry, market and macroeconomic analysis.
 
-**Data Projects**\
+**Data Projects**  
 Python and SQL projects involving data preparation, exploration, analysis and visualisation.
 
 ---
 
-## Certifications & Education
+## 🎓 Certifications & Education
 
-**CFA Program**\
+**CFA Program**  
 CFA Level II Candidate
 
-**BSc Mathematics & Statistics**\
+**BSc Mathematics & Statistics**  
 Quantitative foundation supporting my approach to financial and data analysis.
 
 ---
 
-## What I'm Interested In
+## 🔎 What I'm Interested In
 
 - Financial Markets
 - Investment Research
@@ -85,15 +85,15 @@ Quantitative foundation supporting my approach to financial and data analysis.
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 **[LinkedIn](https://www.linkedin.com/in/chungu-kapambwe/)**  
-Chungu Kapambwe
+Professional profile and insights on finance, markets, data and business.
 
 **[Portfolio](https://chungu365.github.io/)**  
-chungu365.github.io
+Selected projects, dashboards, analysis and work samples.
 
-**Based in**  
+**📍 Based in**  
 Lusaka, Zambia
 
 ---
