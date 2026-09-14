@@ -87,10 +87,10 @@ Quantitative foundation supporting my approach to financial and data analysis.
 
 ## 🤝 Let's Connect
 
-**[LinkedIn](https://www.linkedin.com/in/chungu-kapambwe/)**  
+**[LinkedIn](https://www.linkedin.com/in/chungu-kapambwe-214877257/)**  
 Professional profile and insights on finance, markets, data and business.
 
-**[Portfolio](https://chungu365.github.io/)**  
+**[Portfolio]( https://chungu365.github.io/ChunguKapambwe.github.io/)**  
 Selected projects, dashboards, analysis and work samples.
 
 **📍 Based in**  
