@@ -72,7 +72,7 @@ CFA Level II Candidate
 Coursera, 2024
 
 **Google Business Intelligence Professional Certificate** 
-Coursera, 2024
+ Coursera, 2024
 
 **BSc Mathematics & Statistics**  
 Quantitative foundation supporting my approach to financial and data analysis.
